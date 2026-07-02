@@ -13,7 +13,7 @@ FASE 2: EVALUASI KRONOLOGIS MURNI (BEBAS LEAKAGE)
 ==================================================
 Jumlah Data Uji : 5117 baris
 RMSE            : Rp 7,271.62
-MAE             : Rp 4,559.27
+MAE             : Rp 4,559.26
 MAPE            : 14.00%
 R2              : 95.72%
 
@@ -23,7 +23,7 @@ FASE 3: EVALUASI METRIK ADIL (RATA-RATA KOMODITAS)
 ==================================================
 Jumlah Data Uji : 5117 baris (21 Komoditas)
 RMSE            : Rp 5,833.30
-MAE             : Rp 4,535.60
+MAE             : Rp 4,535.59
 MAPE            : 13.99%
 R2              : 20.65%
 ==================================================
