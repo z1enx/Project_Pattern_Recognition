@@ -1,0 +1,29 @@
+==================================================
+FASE 1: EVALUASI KONDISI AWAL (DATA TIDAK SINKRON)
+(Bukti Analisis Historis: Metodologi Awal: Rata-rata Nasional)
+==================================================
+Jumlah Data Uji : 144 baris
+RMSE            : Rp 6,814.11
+MAE             : Rp 3,463.41
+MAPE            : 7.50%
+R2              : 95.91%
+
+==================================================
+FASE 2: EVALUASI TINGKAT PROVINSI (REALITAS SPASIAL)
+==================================================
+Jumlah Data Uji : 5117 baris
+RMSE            : Rp 8,148.54
+MAE             : Rp 3,866.63
+MAPE            : 8.31%
+R2              : 94.63%
+
+==================================================
+FASE 3: EVALUASI METRIK ADIL (RATA-RATA KOMODITAS)
+(Solusi: Menghitung metrik per karakteristik agar bebas bias harga)
+==================================================
+Jumlah Data Uji : 5117 baris (21 Komoditas)
+RMSE            : Rp 5,037.39
+MAE             : Rp 3,823.88
+MAPE            : 8.26%
+R2              : 42.75%
+==================================================
