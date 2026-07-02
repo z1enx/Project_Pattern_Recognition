@@ -3,27 +3,27 @@ FASE 1: EVALUASI KONDISI AWAL (DATA TIDAK SINKRON)
 (Bukti Analisis Historis: Pembagian Acak Memicu Data Leakage)
 ==================================================
 Jumlah Data Uji : 4675 baris
-RMSE            : Rp 4,124.11
-MAE             : Rp 1,844.01
-MAPE            : 7.54%
-R2              : 98.52%
+RMSE            : Rp 4,399.27
+MAE             : Rp 1,872.44
+MAPE            : 7.23%
+R2              : 98.32%
 
 ==================================================
 FASE 2: EVALUASI KRONOLOGIS MURNI (BEBAS LEAKAGE)
 ==================================================
 Jumlah Data Uji : 8711 baris
-RMSE            : Rp 6,177.28
-MAE             : Rp 3,763.74
-MAPE            : 17.48%
-R2              : 95.78%
+RMSE            : Rp 6,427.91
+MAE             : Rp 3,667.54
+MAPE            : 16.17%
+R2              : 95.43%
 
 ==================================================
 FASE 3: EVALUASI METRIK ADIL (RATA-RATA KOMODITAS)
 (Solusi: Menghitung secara adil bebas bias skala angka nominal)
 ==================================================
 Jumlah Data Uji : 8711 baris (21 Komoditas)
-RMSE            : Rp 4,605.96
-MAE             : Rp 3,797.21
-MAPE            : 18.40%
-R2              : 35.46%
+RMSE            : Rp 4,524.47
+MAE             : Rp 3,673.86
+MAPE            : 16.90%
+R2              : 36.02%
 ==================================================
